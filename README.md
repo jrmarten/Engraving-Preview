@@ -1,4 +1,4 @@
 Engraving-Preview
 =================
 
-This is a simple Engraving Preview using Flash and jQuery.
+This is a simple Engraving Preview using Flash and jQuery. We created this for a client that offers custom engraving on Jewelry pieces. You can see it in action here: <a href="http://www.cornerstonejewelrydesigns.com/rings/purity-rings.html">http://www.cornerstonejewelrydesigns.com/rings/purity-rings.html</a> (click on any of the rings with engraving). It can be modified to include Font Options as long as they're embedded in the SWF file. To get an idea on how to accomplish that, look at the code on any of the rings on the above URL that offer engraving with a font option.
